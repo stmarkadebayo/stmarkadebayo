@@ -2,16 +2,16 @@
 
 # Hi, I'm St. Mark Adebayo
 
-### Machine Learning & AI Engineer . AI Automation Specialist . Data Scientist
+#### Machine Learning & AI Engineer . AI Automation Specialist . Data Scientist
 
-I build practical AI systems that go beyond demos into usable products. My work sits across RAG, AI assistants, document intelligence, applied machine learning, and workflow automation. Right now, I am focused on retrieval systems with grounded citations, AI agents for real workflows, document extraction pipelines, and full-stack AI products with clean deployment paths.
+I build RAG systems, AI assistants, document intelligence pipelines, applied ML tools, and full-stack products people can actually use.
 
-## Socials
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=python&logoColor=white)](mailto:stmarkadebayo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=python&logoColor=white)](https://linkedin.com/in/stmarkadebayo)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=python&logoColor=white)](https://instagram.com/stmarkadebayo)
+[![X](https://img.shields.io/badge/X-111111?style=for-the-badge&logo=python&logoColor=white)](https://x.com/stmarkadebayo)
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:stmarkadebayo@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/stmarkadebayo)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/stmarkadebayo)
-[![X](https://img.shields.io/badge/X-111111?style=flat-square&logo=x&logoColor=white)](https://x.com/stmarkadebayo)
+</div>
 
 ## Tech Stack
 
@@ -39,7 +39,7 @@ I build practical AI systems that go beyond demos into usable products. My work 
 ![](https://streak-stats.demolab.com/?user=stmarkadebayo&theme=bear&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=stmarkadebayo&theme=bear&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-</div>
+
 
 ## Top Projects
 
