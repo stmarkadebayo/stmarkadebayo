@@ -1,10 +1,19 @@
 <div align="center">
 
-# Hi, I'm St. Mark Adebayo
+# Hi👋🏽, I'm St. Mark Adebayo
 
-#### Machine Learning & AI Engineer • AI Automation • RAG & Agentic AI Systems 
+I love building AI products, intelligent automations, and machine learning systems that solve real problems and feel useful in everyday workflows.
 
-I build RAG systems, AI assistants, document intelligence pipelines, applied ML tools, and full-stack products people can actually use.
+#### Machine Learning & AI Engineer • AI Automation • RAG & AI Agents 
+
+
+## About Me
+
+I build across RAG, AI agents, document intelligence, applied machine learning, and workflow automation. What pulls me in most is the gap between a clever model demo and a product people can actually rely on.
+
+I enjoy turning rough ideas into systems with clear structure, usable interfaces, and practical deployment paths. A lot of my recent work has centered on grounded retrieval, agent workflows, document extraction, and full-stack AI tools that connect model capability to real user value.
+
+The problems I naturally gravitate toward are the ones with operational weight: education support, compliance, legal search, phishing detection, and decision support. I care about building systems that are not just smart, but also clear, dependable, and worth using twice.
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stmarkadebayo@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/stmarkadebayo)
@@ -41,22 +50,22 @@ I build RAG systems, AI assistants, document intelligence pipelines, applied ML 
 
 
 
-## Top Projects
+## My Top Projects👨🏽‍💻
 
-- [Efiko AI](https://efikoai.vercel.app)  
+[Efiko AI](https://efikoai.vercel.app)  
   AI-powered study companion for document-based learning, contextual Q&A, and personalized study support.
 
-- [TrustGateAI](https://github.com/stmarkadebayo/TrustGateAI)  
+[TrustGateAI](https://github.com/stmarkadebayo/TrustGateAI)  
   Anti-corruption toolkit with audit analysis, document verification, OCR-assisted checks, and grounded compliance chat.
 
-- [KlavoraAI](https://github.com/stmarkadebayo/KlavoraAI)  
+[KlavoraAI](https://github.com/stmarkadebayo/KlavoraAI)  
   Extraction-first document intelligence stack for contract and policy workflows.
 
-- [Consilium](https://github.com/stmarkadebayo/Consilium)  
+[Consilium](https://github.com/stmarkadebayo/Consilium)  
   Multi-persona AI council for decision support, advisor customization, and prompt experimentation.
 
-- [Catch That Phish](https://github.com/stmarkadebayo/Catch-That-Phish)  
+[Catch That Phish](https://github.com/stmarkadebayo/Catch-That-Phish)  
   ML-powered phishing detection service with email monitoring and API access.
 
-- [Lagos Apartment Pulse](https://github.com/stmarkadebayo/Lagos_Apartment_Pulse)  
+[Lagos Apartment Pulse](https://github.com/stmarkadebayo/Lagos_Apartment_Pulse)  
   Real-estate price prediction app for apartments across Lagos.
