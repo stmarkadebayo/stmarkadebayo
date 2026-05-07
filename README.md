@@ -46,7 +46,7 @@ I build AI products, LLM applications, and automation systems. My work focuses o
 
 #### 🧠 Efiko AI
 
-[Efiko AI](https://efikoai.com) is an AI study companion for students. It lets users chat with documents, generate flashcards, create quizzes, and study from uploaded materials with document-grounded AI support. [GitHub](https://github.com/stmarkadebayo/EfikoAI)
+[Efiko AI](https://efikoai.com) is an AI study companion for students. It lets users chat with documents, generate flashcards, create quizzes, and study from uploaded materials with document-grounded AI support.
 
 #### 🛡️ TrustGateAI
 
