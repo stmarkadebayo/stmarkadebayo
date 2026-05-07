@@ -42,6 +42,19 @@ I build AI products, LLM applications, and automation systems. My work focuses o
 ------
 
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+![](https://streak-stats.demolab.com/?user=stmarkadebayo&theme=bear&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=stmarkadebayo&theme=bear&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
+
+------
+
+
 ## 🚀 My Top Projects
 
 #### 🧠 Efiko AI
@@ -71,14 +84,3 @@ I build AI products, LLM applications, and automation systems. My work focuses o
 #### 🏙️ Lagos Apartment Pulse
 
 [Lagos Apartment Pulse](https://github.com/stmarkadebayo/Lagos_Apartment_Pulse) is a Lagos apartment price prediction app. Users enter apartment/location features and get an estimated rental or property price prediction.
-
-------
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![](https://streak-stats.demolab.com/?user=stmarkadebayo&theme=bear&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=stmarkadebayo&theme=bear&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
