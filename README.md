@@ -1,115 +1,85 @@
 <div align="center">
 
 # Hi👋🏽, I'm St. Mark Adebayo
-**Machine Learning & AI Engineer • AI Automation • LLM Engineer**
+**AI Engineer | LLM Engineer | AI Automation Engineer**
 
-I build AI products, AI automations, RAG and machine learning systems that solve real problems and feel useful in everyday workflows.
+I build AI products, LLM applications, and automation systems that solve real workflow problems.
+My work focuses on RAG, agents, evals, LLMOps, and production-ready AI integrations.
+I also build ML systems for search, fraud, decision support, and intelligent automation.
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stmarkadebayo@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/stmarkadebayo)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/stmarkadebayo)
-[![Twitter](https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white)](https://x.com/stmarkadebayo)
+[![Email](https://img.shields.io/badge/EMAIL-050505?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:stmarkadebayo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/stmarkadebayo)
+[![X](https://img.shields.io/badge/X-050505?style=for-the-badge&logo=x&logoColor=white)](https://x.com/stmarkadebayo)
 
 </div>
 
-### 💫 About Me
 
-- I build portfolio-grade AI systems end to end, from model and retrieval logic to APIs, product surfaces, evaluation, and deployment.
-- My current focus is RAG, AI agents, AI automation, retrieval and search, document intelligence, and machine learning systems that support real decisions.
-- I use each project to show production-minded skills across ML, backend engineering, infra, observability, experimentation, and workflow design.
-- I gravitate toward operational problems in education, compliance, legal search, phishing detection, and decision support.
+## 🧰 Tech Stack
+
+### Languages & Scripting
+
+![Python](https://img.shields.io/badge/PYTHON-050505?style=for-the-badge&logo=python&logoColor=3776AB)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-050505?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-050505?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Go](https://img.shields.io/badge/GO-050505?style=for-the-badge&logo=go&logoColor=00ADD8)
+
+### AI, ML & Data
+
+![PyTorch](https://img.shields.io/badge/PYTORCH-050505?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-050505?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+![MLflow](https://img.shields.io/badge/MLFLOW-050505?style=for-the-badge&logo=mlflow&logoColor=0194E2)
+![Pandas](https://img.shields.io/badge/PANDAS-050505?style=for-the-badge&logo=pandas&logoColor=150458)
+![NumPy](https://img.shields.io/badge/NUMPY-050505?style=for-the-badge&logo=numpy&logoColor=013243)
+
+### LLMOps, Eval & Observability
+
+![OpenTelemetry](https://img.shields.io/badge/OPENTELEMETRY-050505?style=for-the-badge&logo=opentelemetry&logoColor=white)
+![Grafana](https://img.shields.io/badge/GRAFANA-050505?style=for-the-badge&logo=grafana&logoColor=F46800)
+![Sentry](https://img.shields.io/badge/SENTRY-050505?style=for-the-badge&logo=sentry&logoColor=362D59)
+![Selenium](https://img.shields.io/badge/SELENIUM-050505?style=for-the-badge&logo=selenium&logoColor=43B02A)
+
+### Backend, Cloud & Deployment
+
+![FastAPI](https://img.shields.io/badge/FASTAPI-050505?style=for-the-badge&logo=fastapi&logoColor=009688)
+![Docker](https://img.shields.io/badge/DOCKER-050505?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Apache Airflow](https://img.shields.io/badge/APACHE_AIRFLOW-050505?style=for-the-badge&logo=apacheairflow&logoColor=017CEE)
+![Nginx](https://img.shields.io/badge/NGINX-050505?style=for-the-badge&logo=nginx&logoColor=009639)
+![AWS](https://img.shields.io/badge/AWS-050505?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/AZURE-050505?style=for-the-badge&logo=microsoftazure&logoColor=0078D4)
+![Cloudflare](https://img.shields.io/badge/CLOUDFLARE-050505?style=for-the-badge&logo=cloudflare&logoColor=F38020)
 
 
-### 🧰 Tech Stack
+## 🚀 My Top Projects
 
-#### Languages & Scripting
-![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=111111)
-![Rust](https://img.shields.io/badge/Rust-000000?style=plastic&logo=rust&logoColor=white)
-![Bash Script](https://img.shields.io/badge/Bash_Script-121011?style=plastic&logo=gnubash&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=plastic&logo=windowsterminal&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=plastic&logo=r&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white)
+### 🤖 Efiko AI
 
-#### Cloud & Deployment
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=plastic&logo=amazonaws&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-1F1F1F?style=plastic&logo=cloudflare&logoColor=F38020)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=plastic&logo=microsoftazure&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=plastic&logo=firebase&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=plastic&logo=googlecloud&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=plastic&logo=render&logoColor=111111)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white)
+[Efiko AI](https://efikoai.vercel.app) is an AI-powered study companion that helps students learn from their own materials through document upload, contextual Q&A, and personalized support.
 
-#### Backend & App Layer
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=plastic&logo=streamlit&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=plastic&logo=apacheairflow&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=plastic&logo=nginx&logoColor=white)
+### 🛡️ TrustGateAI
 
-#### Data, Search & Streaming
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-FDEE21?style=plastic&logo=apachespark&logoColor=black)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-000000?style=plastic&logo=apachekafka&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=plastic&logo=elasticsearch&logoColor=white)
+[TrustGateAI](https://github.com/stmarkadebayo/TrustGateAI) is an anti-corruption and compliance toolkit for audit-pack analysis, document verification, OCR-assisted checks, registry validation, and grounded compliance chat.
 
-#### Databases & Storage
-![Amazon DynamoDB](https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=plastic&logo=amazondynamodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=plastic&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=plastic&logo=microsoftsqlserver&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white)
+### 📄 KlavoraAI
 
-#### ML, AI Research & Analytics
-![Keras](https://img.shields.io/badge/Keras-D00000?style=plastic&logo=keras&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=plastic&logo=plotly&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=plastic&logo=mlflow&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=plastic&logo=scikitlearn&logoColor=white)
+[KlavoraAI](https://github.com/stmarkadebayo/KlavoraAI) is a document intelligence stack for contract and policy extraction, built around reproducible data processing, fine-tuning paths, and evaluation runbooks.
 
-#### LLM Ops, Eval & Observability
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=plastic&logo=playwright&logoColor=white)
-![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=plastic&logo=puppeteer&logoColor=111111)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=plastic&logo=selenium&logoColor=white)
-![Sentry](https://img.shields.io/badge/Sentry-362D59?style=plastic&logo=sentry&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=plastic&logo=grafana&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=plastic&logo=docker&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=plastic&logo=opentelemetry&logoColor=white)
+### 🧠 Consilium
 
-#### Developer Tools & CI
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=plastic&logo=gitlab&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=plastic&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=plastic&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-181717?style=plastic&logo=gitlab&logoColor=white)
+[Consilium](https://github.com/stmarkadebayo/Consilium) is a multi-persona AI council for decision support, advisor customization, prompt experimentation, and turning LLM output into usable decisions.
 
-### 📊 GitHub Stats
+### 🎣 Catch That Phish
 
-<div>
+[Catch That Phish](https://github.com/stmarkadebayo/Catch-That-Phish) is an ML-powered phishing detection service with email monitoring, API access, classification workflows, and security-focused automation.
+
+### 🏙️ Lagos Apartment Pulse
+
+[Lagos Apartment Pulse](https://github.com/stmarkadebayo/Lagos_Apartment_Pulse) is a real-estate price prediction app for Lagos apartments, built around practical modeling and user-facing prediction workflows.
+
+## 📊 GitHub Stats
+
+<div align="center">
 
 ![](https://streak-stats.demolab.com/?user=stmarkadebayo&theme=bear&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=stmarkadebayo&theme=bear&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
-
-### 🚀 My Top Projects
-
-- [🤖 Efiko AI](https://efikoai.vercel.app)  
-  An AI-powered study companion built to help students learn from their own materials through document upload, contextual Q&A, and personalized support. It reflects my interest in usable AI products that connect retrieval, conversation flow, and learning experience in one system.
-
-- [🛡️ TrustGateAI](https://github.com/stmarkadebayo/TrustGateAI)  
-  An anti-corruption and compliance toolkit with audit-pack analysis, document verification, OCR-assisted checks, registry validation, and grounded compliance chat. This project shows applied AI in a trust-heavy workflow where explainability and structured outputs matter.
-
-- [📄 KlavoraAI](https://github.com/stmarkadebayo/KlavoraAI)  
-  A document intelligence stack for contract and policy extraction, built around reproducible data processing, fine-tuning paths, and evaluation runbooks. It represents the side of my work focused on extraction quality, model behavior, and disciplined evaluation.
-
-- [🧠 Consilium](https://github.com/stmarkadebayo/Consilium)  
-  A multi-persona AI council for decision support, advisor customization, and prompt experimentation. It demonstrates how I think about LLM product design, persona systems, interaction flows, and turning AI output into something more usable for actual decisions.
-
-- [🎣 Catch That Phish](https://github.com/stmarkadebayo/Catch-That-Phish)  
-  An ML-powered phishing detection service with email monitoring and API access. This project highlights classification workflows, security-focused ML, backend integration, and building systems that can act on predictions instead of only reporting them.
-
-- [🏙️ Lagos Apartment Pulse](https://github.com/stmarkadebayo/Lagos_Apartment_Pulse)  
-  A real-estate price prediction app for apartments across Lagos, built around practical modeling and user-facing prediction workflows. It reflects my data science foundation and my preference for models that tie directly to everyday decision-making.
