@@ -2,14 +2,14 @@
 
 # Hi, I'm St. Mark Adebayo
 
-#### Machine Learning & AI Engineer . AI Automation Specialist . Data Scientist
+AI Engineer • Data Scientist • Builder of practical ML and AI products
 
 I build RAG systems, AI assistants, document intelligence pipelines, applied ML tools, and full-stack products people can actually use.
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=python&logoColor=white)](mailto:stmarkadebayo@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=python&logoColor=white)](https://linkedin.com/in/stmarkadebayo)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=python&logoColor=white)](https://instagram.com/stmarkadebayo)
-[![X](https://img.shields.io/badge/X-111111?style=for-the-badge&logo=python&logoColor=white)](https://x.com/stmarkadebayo)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stmarkadebayo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/stmarkadebayo)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/stmarkadebayo)
+[![X](https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white)](https://x.com/stmarkadebayo)
 
 </div>
 
