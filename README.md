@@ -7,9 +7,9 @@
 I build AI products, LLM applications, and automation systems. My work focuses on RAG, Agents, Evals, LLMOps, and production-ready AI integrations. 🚀
 
 
-[![Email](https://img.shields.io/badge/EMAIL-050505?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:stmarkadebayo@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/stmarkadebayo)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-050505?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/stmarkadebayo)
+[![Email](https://img.shields.io/badge/EMAIL-050505?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stmarkadebayo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/stmarkadebayo)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-050505?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/stmarkadebayo)
 [![X](https://img.shields.io/badge/X-050505?style=for-the-badge&logo=x&logoColor=white)](https://x.com/stmarkadebayo)
 
 ------
@@ -18,26 +18,28 @@ I build AI products, LLM applications, and automation systems. My work focuses o
 
 ## 💻 My Tech Stack
 
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111)
-![Go](https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-050505?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
-![MLflow](https://img.shields.io/badge/MLFLOW-050505?style=for-the-badge&logo=mlflow&logoColor=0194E2)
-![Pandas](https://img.shields.io/badge/PANDAS-050505?style=for-the-badge&logo=pandas&logoColor=150458)
-![NumPy](https://img.shields.io/badge/NUMPY-050505?style=for-the-badge&logo=numpy&logoColor=013243)
+![Python](https://img.shields.io/badge/PYTHON-050505?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-050505?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-050505?style=for-the-badge&logo=javascript&logoColor=white)
+![Go](https://img.shields.io/badge/GO-050505?style=for-the-badge&logo=go&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PYTORCH-050505?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-050505?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLFLOW-050505?style=for-the-badge&logo=mlflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/PANDAS-050505?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NUMPY-050505?style=for-the-badge&logo=numpy&logoColor=white)
 ![OpenTelemetry](https://img.shields.io/badge/OPENTELEMETRY-050505?style=for-the-badge&logo=opentelemetry&logoColor=white)
-![Grafana](https://img.shields.io/badge/GRAFANA-050505?style=for-the-badge&logo=grafana&logoColor=F46800)
-![Sentry](https://img.shields.io/badge/SENTRY-050505?style=for-the-badge&logo=sentry&logoColor=362D59)
-![Selenium](https://img.shields.io/badge/SELENIUM-050505?style=for-the-badge&logo=selenium&logoColor=43B02A)
-![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/APACHE_AIRFLOW-050505?style=for-the-badge&logo=apacheairflow&logoColor=017CEE)
-![Nginx](https://img.shields.io/badge/NGINX-050505?style=for-the-badge&logo=nginx&logoColor=009639)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=111111)
-![Azure](https://img.shields.io/badge/AZURE-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/CLOUDFLARE-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Grafana](https://img.shields.io/badge/GRAFANA-050505?style=for-the-badge&logo=grafana&logoColor=white)
+![Sentry](https://img.shields.io/badge/SENTRY-050505?style=for-the-badge&logo=sentry&logoColor=white)
+![Selenium](https://img.shields.io/badge/SELENIUM-050505?style=for-the-badge&logo=selenium&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FASTAPI-050505?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/DOCKER-050505?style=for-the-badge&logo=docker&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/APACHE_AIRFLOW-050505?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Nginx](https://img.shields.io/badge/NGINX-050505?style=for-the-badge&logo=nginx&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-050505?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/AZURE-050505?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/CLOUDFLARE-050505?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+------
 
 
 ## 🚀 My Top Projects
@@ -69,6 +71,8 @@ I build AI products, LLM applications, and automation systems. My work focuses o
 #### 🏙️ Lagos Apartment Pulse
 
 [Lagos Apartment Pulse](https://github.com/stmarkadebayo/Lagos_Apartment_Pulse) is a Lagos apartment price prediction app. Users enter apartment/location features and get an estimated rental or property price prediction.
+
+------
 
 ## 📊 GitHub Stats
 
