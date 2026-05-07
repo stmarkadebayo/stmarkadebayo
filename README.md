@@ -1,17 +1,24 @@
+<div align="center">
+
 # Hi, I'm St. Mark Adebayo
 
-### Machine Learning & AI Engineer • AI Automation Specialist • Data Scientist
+---
 
-## 💫 About Me:
-I build practical AI systems that move beyond demos into usable products. My work sits across RAG, AI assistants, document intelligence, applied machine learning, and workflow automation. Right now, I am focused on retrieval systems with grounded citations, AI agents for real workflows, document extraction pipelines, and full-stack AI products with clean deployment paths.
+### Machine Learning & AI Engineer . AI Automation Specialist . Data Scientist
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stmarkadebayo)
+I build practical AI systems that go beyond demos into usable products. My work sits across RAG, AI assistants, document intelligence, applied machine learning, and workflow automation. Right now, I am focused on retrieval systems with grounded citations, AI agents for real workflows, document extraction pipelines, and full-stack AI products with clean deployment paths.
+
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:stmarkadebayo@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stmarkadebayo)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stmarkadebayo)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/stmarkadebayo)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:stmarkadebayo@gmail.com)
 
-## 💻 Tech Stack:
+</div>
+
+---
+
+## Tech Stack
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
@@ -35,19 +42,31 @@ I build practical AI systems that move beyond demos into usable products. My wor
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=stmarkadebayo&theme=bear&hide_border=false&include_all_commits=true&count_private=true)<br/>
+---
+
+## GitHub Stats
+
 ![](https://streak-stats.demolab.com/?user=stmarkadebayo&theme=bear&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=stmarkadebayo&theme=bear&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+---
+
 ## Top Projects
 
-- [Efiko AI](https://efikoai.vercel.app) - AI-powered study companion for document-based learning, contextual Q&A, and personalized study support.
-- [TrustGateAI](https://github.com/stmarkadebayo/TrustGateAI) - Anti-corruption toolkit with audit analysis, document verification, OCR-assisted checks, and grounded compliance chat.
-- [KlavoraAI](https://github.com/stmarkadebayo/KlavoraAI) - Extraction-first document intelligence stack for contract and policy workflows.
-- [Consilium](https://github.com/stmarkadebayo/Consilium) - Multi-persona AI council for decision support, advisor customization, and prompt experimentation.
-- [Catch That Phish](https://github.com/stmarkadebayo/Catch-That-Phish) - ML-powered phishing detection service with email monitoring and API access.
-- [Lagos Apartment Pulse](https://github.com/stmarkadebayo/Lagos_Apartment_Pulse) - Real-estate price prediction app for apartments across Lagos.
+- [Efiko AI](https://efikoai.vercel.app)  
+  AI-powered study companion for document-based learning, contextual Q&A, and personalized study support.
 
----
-[![](https://komarev.com/ghpvc/?username=stmarkadebayo&icon=0&color=1)](https://visitcount.itsvg.in)
+- [TrustGateAI](https://github.com/stmarkadebayo/TrustGateAI)  
+  Anti-corruption toolkit with audit analysis, document verification, OCR-assisted checks, and grounded compliance chat.
+
+- [KlavoraAI](https://github.com/stmarkadebayo/KlavoraAI)  
+  Extraction-first document intelligence stack for contract and policy workflows.
+
+- [Consilium](https://github.com/stmarkadebayo/Consilium)  
+  Multi-persona AI council for decision support, advisor customization, and prompt experimentation.
+
+- [Catch That Phish](https://github.com/stmarkadebayo/Catch-That-Phish)  
+  ML-powered phishing detection service with email monitoring and API access.
+
+- [Lagos Apartment Pulse](https://github.com/stmarkadebayo/Lagos_Apartment_Pulse)  
+  Real-estate price prediction app for apartments across Lagos.
