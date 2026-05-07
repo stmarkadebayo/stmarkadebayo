@@ -1,45 +1,35 @@
 <div align="center">
 
 # Hi👋🏽, I'm St. Mark Adebayo
-**AI Engineer | LLM Engineer | AI Automation Engineer**
+**AI Engineer • LLM Engineer • AI Automation Engineer**
 
-I build AI products, LLM applications, and automation systems that solve real workflow problems.
-My work focuses on RAG, agents, evals, LLMOps, and production-ready AI integrations.
-I also build ML systems for search, fraud, decision support, and intelligent automation.
+- I build AI products, LLM applications, and automation systems. 👨🏽‍💻
+
+- RAG, Agents, Evals, LLMOps, and production-ready AI integrations. 🚀
+
 
 [![Email](https://img.shields.io/badge/EMAIL-050505?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:stmarkadebayo@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/stmarkadebayo)
 [![X](https://img.shields.io/badge/X-050505?style=for-the-badge&logo=x&logoColor=white)](https://x.com/stmarkadebayo)
 
 </div>
-
+----
 
 ## 🧰 Tech Stack
-
-### Languages & Scripting
 
 ![Python](https://img.shields.io/badge/PYTHON-050505?style=for-the-badge&logo=python&logoColor=3776AB)
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-050505?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-050505?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Go](https://img.shields.io/badge/GO-050505?style=for-the-badge&logo=go&logoColor=00ADD8)
-
-### AI, ML & Data
-
 ![PyTorch](https://img.shields.io/badge/PYTORCH-050505?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
 ![scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-050505?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
 ![MLflow](https://img.shields.io/badge/MLFLOW-050505?style=for-the-badge&logo=mlflow&logoColor=0194E2)
 ![Pandas](https://img.shields.io/badge/PANDAS-050505?style=for-the-badge&logo=pandas&logoColor=150458)
 ![NumPy](https://img.shields.io/badge/NUMPY-050505?style=for-the-badge&logo=numpy&logoColor=013243)
-
-### LLMOps, Eval & Observability
-
 ![OpenTelemetry](https://img.shields.io/badge/OPENTELEMETRY-050505?style=for-the-badge&logo=opentelemetry&logoColor=white)
 ![Grafana](https://img.shields.io/badge/GRAFANA-050505?style=for-the-badge&logo=grafana&logoColor=F46800)
 ![Sentry](https://img.shields.io/badge/SENTRY-050505?style=for-the-badge&logo=sentry&logoColor=362D59)
 ![Selenium](https://img.shields.io/badge/SELENIUM-050505?style=for-the-badge&logo=selenium&logoColor=43B02A)
-
-### Backend, Cloud & Deployment
-
 ![FastAPI](https://img.shields.io/badge/FASTAPI-050505?style=for-the-badge&logo=fastapi&logoColor=009688)
 ![Docker](https://img.shields.io/badge/DOCKER-050505?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Apache Airflow](https://img.shields.io/badge/APACHE_AIRFLOW-050505?style=for-the-badge&logo=apacheairflow&logoColor=017CEE)
