@@ -2,7 +2,7 @@
 
 # Hi, I'm St. Mark Adebayo
 
-AI Engineer • Data Scientist • Builder of practical ML and AI products
+#### Machine Learning & AI Engineer • AI Automation • RAG & Agentic AI Systems 
 
 I build RAG systems, AI assistants, document intelligence pipelines, applied ML tools, and full-stack products people can actually use.
 
